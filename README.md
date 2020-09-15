@@ -1,3 +1,6 @@
+# Forked from Darksecond
+The original code is from Darksecond, changes have been made to create support for putting it in a Docker container and creating Motion Detection support.
+
 # MQTT - Hue Bridge
 
 This is a MQTT to Philips Hue Bridge. It is written in Node.js and provides MQTT control over hue sensors and lights.
