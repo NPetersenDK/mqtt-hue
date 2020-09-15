@@ -1,4 +1,4 @@
-# MQTT - Hue Bridge with support for motion detection.
+# MQTT - Hue Bridge with support for motion detection and Docker
 The original code is from Darksecond, changes have been made to create support for putting it in a Docker container and creating Motion Detection support.
 
 This is a MQTT to Philips Hue Bridge. It is written in Node.js and provides MQTT control over hue sensors and lights.
